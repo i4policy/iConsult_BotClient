@@ -1,0 +1,21 @@
+{
+  "name": "rating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootbot": "git://github.com/melikte/bootbot.git",
+    "memory-cache": "^0.2.0"
+  },
+  "engines": {
+    "node": "8.12.0"
+  }
+}
